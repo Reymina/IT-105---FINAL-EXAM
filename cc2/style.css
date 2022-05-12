@@ -1,0 +1,23 @@
+section {
+	height: 20vh;
+	width: 20%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.image1 {
+	background-image: url("https://www.canon.co.nz/-/media/new-zealand/stories/rach-stewart/rach-stewart-1-mountains.ashx?la=en-nz")
+}
+
+.image2 {
+	background-image: url("https://images.unsplash.com/photo-1511884642898-4c92249e20b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80");
+}
+
+.image3 {
+	background-image: url("https://www.canon.co.nz/-/media/new-zealand/stories/rach-stewart/rach-stewart-12-road-south-island.ashx");
+}
+
+.image4 {
+	background-image: url("https://llandscapes-10674.kxcdn.com/wp-content/uploads/2018/04/landscape-photography-portfolio-5.jpg");
+}
